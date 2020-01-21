@@ -1,8 +1,7 @@
 name: topic_text
-description: topic text like webo ## wrap text ,which can click，自动识别 ## 包裹的话题，可以点击
-version: 0.0.1
-author: brzhang
-homepage:
+description: topic text like webo ## wrap text ,which can click，自动识别 ##话题/@用户/URL点击 的
+version: 0.1.4
+homepage: https://github.com/bravekingzhang/topic_text
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
