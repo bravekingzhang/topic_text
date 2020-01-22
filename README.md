@@ -4,7 +4,7 @@ topic text like webo ## wrap text ,which can click，自动识别 微博话题/�
 
 ## Getting Started
 
-![图片效果](./WechatIMG7611.png)
+![图片效果](https://github.com/bravekingzhang/topic_text/blob/master/WechatIMG7611.png)
 
 ```dart
 import 'package:topic_text/topic_text.dart';

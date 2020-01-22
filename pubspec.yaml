@@ -1,6 +1,6 @@
 name: topic_text
 description: topic text like webo ## wrap text ,which can click，自动识别 ##话题/@用户/URL点击 的
-version: 0.1.4
+version: 0.1.5
 homepage: https://github.com/bravekingzhang/topic_text
 
 environment:
